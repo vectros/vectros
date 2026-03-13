@@ -1,5 +1,5 @@
-# 💫 About Me:
-## About Me :<br><br>Vectros is focused on building an LLM-integrated operating system (AIOS) that enables users to interact with computing systems through natural language. The project aims to combine artificial intelligence with operating system architecture to create a more intelligent and accessible computing environment.Our work explores the integration of large language models with core system components such as the kernel, terminal, and system services. By bridging AI and system software, Vectros seeks to simplify complex tasks, improve developer productivity, and advance the future of AI-driven computing platforms.
+# 💫 About Us:
+## About us :<br><br>Vectros is focused on building an LLM-integrated operating system (AIOS) that enables users to interact with computing systems through natural language. The project aims to combine artificial intelligence with operating system architecture to create a more intelligent and accessible computing environment.Our work explores the integration of large language models with core system components such as the kernel, terminal, and system services. By bridging AI and system software, Vectros seeks to simplify complex tasks, improve developer productivity, and advance the future of AI-driven computing platforms.
 
 
 ## 🌐 Socials:
