@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-<img src="./assets/vectros-logo.png" width="180" alt="Vectros">
+<img src="./logo_with_text.png" width="180" alt="Vectros">
 
 ### Building intelligent operating systems for the next generation of computing.
 </div>
